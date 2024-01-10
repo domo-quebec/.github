@@ -13,4 +13,4 @@ Ce dépôt a pour but de documenter l'accès à différentes ressources d'intér
 | MSSS | [Occupation Urgences](https://github.com/domo-quebec/msss-urgences) | En cours |
 | MTQ | [Caméras](/mtq/) | Fonctionnel |
 | Sopfeu | [Indice de danger d'incendie et feux actifs](https://github.com/domo-quebec/sopfeu) | Fonctionnel |
-| TVA | [Fermeture des écoles](/tva/) | Fonctionnel |
+| TVA | [Fermeture des écoles](https://github.com/domo-quebec/fermeture-ecoles) | Fonctionnel |
