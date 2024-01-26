@@ -10,6 +10,8 @@ Nous avons également un canal [Discord](https://discord.gg/5zEpJjppgr).
 
 Les nouvelles sources de données peuvent être ajoutées au dépôt [domo-quebec](https://github.com/domo-quebec/domo-quebec).
 
+Si vous n'êtes pas "techno" mais avez une suggestion n'hésitez pas à ouvrir un "Issue" [ici](https://github.com/domo-quebec/domo-quebec/issues) avec les informations sur la source. Quelqu'un d'autre pourra voir la faisabilité.
+
 Les projets jugés complets pourront éventuellement être déplacés vers leur propre dépôt.
 
 ## Plateformes
