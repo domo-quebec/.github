@@ -1,10 +1,16 @@
 # Domo Québec
 
-Ce dépôt a pour but de documenter l'accès à différentes ressources d'intérêt pour les Québécois exploitant des systèmes de domotique. La plupart des solutions proposées ont été faites pour la plateforme Home-Assistant, mais les techniques pour l'extraction des données devraient être transposables dans d'autres plates-formes.
+Ce dépôt a pour but de documenter l'accès à différentes ressources d'intérêt pour les Québécois exploitant des systèmes de domotique. La plupart des solutions proposées ont été faites pour la plateforme Home-Assistant, mais les techniques pour l'extraction des données devraient être transposables dans d'autres plateformes.
+
+Nous avons également un canal [Discord](https://discord.gg/5zEpJjppgr).
+
+![Discord](https://img.shields.io/discord/931570222475907083?link=https%3A%2F%2Fdiscord.gg%2F5zEpJjppgr)
+
+## Contributions et ajout de sources
 
 Les nouvelles sources de données peuvent être ajoutées au dépôt [domo-quebec](https://github.com/domo-quebec/domo-quebec).
 
-Les projets jugés complets pourrons être déplacé vers leur propre dépôt par la suite.
+Les projets jugés complets pourront éventuellement être déplacés vers leur propre dépôt.
 
 ## Plateformes
 
@@ -21,10 +27,10 @@ Les projets jugés complets pourrons être déplacé vers leur propre dépôt pa
 
 ## Autres projets d'intérêt
 
-C'est projet exterieurs à Domo Québec pourraient vous intéresser.
+Ces projets extérieurs à Domo Québec pourraient vous intéresser.
 
 | Description | Lien |
 | - | - |
 | Intégration des données d'Hydro-Québec | https://hydroqc.ca |
-| Intégration Home-Assistant Hilo | https://github.com/dvd-dev/hilo |
-| Intégration Home-Assistant Sinopé | https://github.com/claudegel |
+| Integration Home-Assistant Hilo | https://github.com/dvd-dev/hilo |
+| Integration Home-Assistant Sinopé | https://github.com/claudegel |
