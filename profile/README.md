@@ -34,5 +34,5 @@ Ces projets extérieurs à Domo Québec pourraient vous intéresser.
 | Description | Lien |
 | - | - |
 | Intégration des données d'Hydro-Québec | https://hydroqc.ca |
-| Integration Home-Assistant Hilo | https://github.com/dvd-dev/hilo |
-| Integration Home-Assistant Sinopé | https://github.com/claudegel |
+| Intégration Home-Assistant Hilo | https://github.com/dvd-dev/hilo |
+| Intégration Home-Assistant Sinopé | https://github.com/claudegel |
