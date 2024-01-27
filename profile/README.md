@@ -18,12 +18,12 @@ Les projets jugés complets pourront éventuellement être déplacés vers leur 
 
 | Plateforme | Description | État |
 |-|-|-|
-| CAA | [Prix Essence](https://github.com/domo-quebec/domo-quebec/caa/) | Fonctionnel |
-| Hydro-Québec | [Données Ouvertes](https://github.com/domo-quebec/domo-quebec/hydro-quebec/) | Fonctionnel |
-| MELCCFP | [Indice de la qualité de l'air](https://github.com/domo-quebec/domo-quebec/melccfp/) | Fonctionnel |
-| MSP | [Fil multirisque](https://github.com/domo-quebec/domo-quebec/msp/) | En cours |
+| CAA | [Prix Essence](https://github.com/domo-quebec/domo-quebec/tree/main/caa) | Fonctionnel |
+| Hydro-Québec | [Données Ouvertes](https://github.com/domo-quebec/domo-quebec/tree/main/hydro-quebec) | Fonctionnel |
+| MELCCFP | [Indice de la qualité de l'air](https://github.com/domo-quebec/domo-quebec/tree/main/melccfp/) | Fonctionnel |
+| MSP | [Fil multirisque](https://github.com/domo-quebec/domo-quebec/tree/main/msp/) | En cours |
 | MSSS | [Occupation Urgences](https://github.com/domo-quebec/msss-urgences) | En cours |
-| MTQ | [Caméras](https://github.com/domo-quebec/domo-quebec/mtq/) | Fonctionnel |
+| MTQ | [Caméras](https://github.com/domo-quebec/domo-quebec/tree/main/mtq/) | Fonctionnel |
 | Sopfeu | [Indice de danger d'incendie et feux actifs](https://github.com/domo-quebec/sopfeu) | Fonctionnel |
 | TVA | [Fermeture des écoles](https://github.com/domo-quebec/fermeture-ecoles) | Fonctionnel |
 
